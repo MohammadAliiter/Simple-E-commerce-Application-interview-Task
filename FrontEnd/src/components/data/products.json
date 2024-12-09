@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Classic White T-Shirt",
+      "description": "A comfortable and versatile white t-shirt made from 100% cotton.",
+      "price": 19.99,
+      "rating": 4.5,
+      "image": "https://guysworld.in/wp-content/uploads/2019/03/71ygO38MHFL._UL1500_-1.jpg",
+      "sizes": [
+        { "size": "S", "quantity": 50 },
+        { "size": "M", "quantity": 100 },
+        { "size": "L", "quantity": 75 },
+        { "size": "XL", "quantity": 25 }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Slim Fit Jeans",
+      "description": "Modern slim fit jeans in a classic blue wash.",
+      "price": 49.99,
+      "rating": 4.2,
+      "image": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F99%2F14%2F9914c3e84c7da1e88d0d62c3669619e471159f0a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "sizes": [
+        { "size": "28", "quantity": 30 },
+        { "size": "30", "quantity": 50 },
+        { "size": "32", "quantity": 50 },
+        { "size": "34", "quantity": 30 }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "description": "Lightweight and comfortable running shoes with excellent support.",
+      "price": 79.99,
+      "rating": 4.7,
+      "image": "https://th.bing.com/th/id/OIP.BaA1WwVPwjT_yiDtnMxPRgAAAA?w=326&h=183&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "sizes": [
+        { "size": "8", "quantity": 20 },
+        { "size": "9", "quantity": 30 },
+        { "size": "10", "quantity": 40 },
+        { "size": "11", "quantity": 20 }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Leather Wallet",
+      "description": "Genuine leather wallet with multiple card slots and a coin pocket.",
+      "price": 29.99,
+      "rating": 4.4,
+      "image": "https://th.bing.com/th/id/OIP.ThXy5bGX82Q1KLQPqb-08gHaHa?w=197&h=197&c=7&r=0&o=5&dpr=1.5&pid=1.7",
+      "sizes": [
+        { "size": "One Size", "quantity": 100 }
+      ]
+    }
+  ]
+  
+  
